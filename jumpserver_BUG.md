@@ -21,3 +21,8 @@ such as eval ls, then execute the.sh script directly. Both commands can be execu
 Remote commands may be executed in real situations, resulting in system security.
 
 ![image](https://github.com/296430468/lcc_test/assets/67642123/d6d4482e-d213-4750-97e1-dee4133b9201)
+![image](https://github.com/296430468/lcc_test/assets/67642123/c65f9ae2-6803-4fe0-babb-c9a1b9a33062)
+![image](https://github.com/296430468/lcc_test/assets/67642123/cfc7a21f-e6ce-4de0-b2b9-1b2c92a5d0d6)
+![image](https://github.com/296430468/lcc_test/assets/67642123/062bc00c-cf2b-4071-8a52-85683e458455)
+
+
