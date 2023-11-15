@@ -20,3 +20,4 @@ Normally, the system blocks authorized users from using these commands. However,
 such as eval ls, then execute the.sh script directly. Both commands can be executed. In this way, the command filtering function is bypassed. 
 Remote commands may be executed in real situations, resulting in system security.
 
+![image](https://github.com/296430468/lcc_test/assets/67642123/d6d4482e-d213-4750-97e1-dee4133b9201)
